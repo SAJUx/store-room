@@ -1,4 +1,3 @@
 
-fuck@gamil.com
-1234
-20262729
+user = fuck@gamil.com
+pass = 1234
